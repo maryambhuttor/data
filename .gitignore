@@ -1,0 +1,12 @@
+# build & runtime
+classes/
+output/
+pipeline.jar
+
+# local Hadoop download/extract
+hadoop-3.3.6/
+hadoop-3.3.6.tar.gz
+
+# OS/editor
+.DS_Store
+*.swp

@@ -1,0 +1,5 @@
+PatientID,FileName,Duration_sec,SampleRate
+001,Voice_001.wav,30,44100
+002,Voice_002.wav,,44100
+003,Voice_003.wav,45,
+003,Voice_003.wav,45,44100

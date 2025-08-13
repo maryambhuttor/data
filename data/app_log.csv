@@ -1,0 +1,5 @@
+PatientID,Timestamp,EventType,Value
+001,2025-08-13 10:00,login,
+002,2025-08-13 10:05,click,button1
+003,2025-08-13 10:10,click,button2
+004,2025-08-13 10:15,logout,button3
